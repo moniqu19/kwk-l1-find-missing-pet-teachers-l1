@@ -62,3 +62,6 @@ describe 'What should be inside of /elephants' do
     end
   end
 end
+```bash
+mv cats/indoor/back-alley/painting-elephants.jpg/elephants painters
+```

@@ -24,7 +24,7 @@ Remember, it's always helpful to know where you are in your directory tree in re
 
 Click the "Open" button to start this lab. In your IDE terminal, run `bundle` to make sure the lab is setup.
 
-Run `learn` in the terminal to check your progress! `spec/pet_spec.rb` contains code that will check your placement of the animals to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which animals you've brought home.
+Run `learn` in the terminal to check your progress! `spec/pet_spec.rb` contains code that will check your placement of the animals to see if they are in the right place or not. This file will also print the result to the terminal screen, so you can keep track of which animals you've brought home.https://learn.co/tracks/kode-with-klossy-level-1/day-1/the-command-line-interface/find-the-missing-pet#
 
 Use the commands we've learned to move the animals to their right places. When everything prints green, you've successfully organized all the Animal Sanctuary's adorable animal pics!
 <br>
